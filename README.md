@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jacopo</h1>
-<h3 align="center">A passionate Computer Science Engineer from Italy</h3>
+<h3 align="center">A passionate Computer Science Engineer from Italy 🇮🇹</h3>
 
-- 🔭 I’m currently working on **Master Thesis**
+- 🔭 I’m currently working on **Master Thesis - CoVid19 Severity starting from Genomic string**
 
 - 🌱 I’m currently learning **Scikit Learn & Pytorch**
 
-- 👨‍💻 All of my projects are available at [mywebsite.toimplement](mywebsite.toimplement)
+- 📫 How to reach me **jacopo.vitale96@gmail.com**
 
-- 📫 How to reach me **jacopo.vitale@gmail.com**
-
-- ⚡ Fun fact **In a second life, I'd been a Medic**
+- ⚡ Fun fact **I like jokes that don't make laughs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

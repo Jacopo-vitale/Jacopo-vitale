@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jacopo</h1>
 <h3 align="center">A passionate Computer Science Engineer from Italy 🇮🇹</h3>
 
-- 🔭 I’m currently working on **Master's Defense - COVID19 Severity starting from Genomic string**
+- 🔭 I’m currently searching for **Medical AI Job**
 
-- 🌱 I’m currently learning **Scikit Learn & Pytorch**
+- 🌱 I’m currently learning **Python for Medical AI**
 
 - 📫 How to reach me **jacopo.vitale96@gmail.com**
 

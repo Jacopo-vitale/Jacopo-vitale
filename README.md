@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jacopo</h1>
 <h3 align="center">A passionate Computer Science Engineer from Italy 🇮🇹</h3>
 
-- 🔭 I’m currently searching for **Medical AI Job**
+- 🔭 I’m currently a PhD Student in **Bioengineering, Applied Science and Intelligent Systems**
 
 - 🌱 I’m currently learning **Python for Medical AI**
 
